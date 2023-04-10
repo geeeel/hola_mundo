@@ -9,3 +9,5 @@
 [Rust](./holarust.rs)
 
 [Bash](./holabash.sh)
+
+[C](./holaC.c)
