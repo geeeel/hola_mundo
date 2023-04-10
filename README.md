@@ -4,3 +4,5 @@
 
 [JavaScript](./holajs.js)
 
+[Rust](./holarust.rs)
+
